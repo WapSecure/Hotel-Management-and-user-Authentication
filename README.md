@@ -1,5 +1,5 @@
-# hotel-booking 
-**Online Hotel Booking &amp; Management System**
+# Hotel management and Autherntication System
+**Online Hotel Booking, Staff management and User Authentication System**
 
 **User Role**
 
